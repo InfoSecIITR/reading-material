@@ -31,6 +31,7 @@ If you have any cool content, please link to it via a PR.
 + [Exploiting PHP File Inclusion](https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
 + [Address Sanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
 + [Roposaurusrex](https://blog.skullsecurity.org/2013/ropasaurusrex-a-primer-on-return-oriented-programming) -- a primer on return oriented programming
++ [XSSed](xssed.com) - some practically done xss attacks
 
 ## Must Reads
 
@@ -40,6 +41,7 @@ If you have any cool content, please link to it via a PR.
 
 + [GDB Basics](https://www.cs.cmu.edu/~gilpin/tutorial/)
 + [Format String Exploitation](https://www.exploit-db.com/docs/28476.pdf)
++ [Pentester's Lab](https://www.pentesterlab.com/) -- specifically try the _Web For Pentester_ 1 and 2
 
 ## Cheat Sheets
 
