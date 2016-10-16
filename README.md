@@ -33,6 +33,7 @@ If you have any cool content, please link to it via a PR.
 + [Address Sanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
 + [Roposaurusrex](https://blog.skullsecurity.org/2013/ropasaurusrex-a-primer-on-return-oriented-programming) -- a primer on return oriented programming
 + [XSSed](http://www.xssed.com) - some practically done xss attacks
++ [BinTut](https://github.com/NoviceLive/bintut) - BinTut is a set of tutorials, as well as exercises.
 
 ## Must Reads
 
