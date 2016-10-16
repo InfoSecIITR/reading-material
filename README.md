@@ -48,3 +48,4 @@ If you have any cool content, please link to it via a PR.
 
 + [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
 + [Local File Inclusion](https://highon.coffee/blog/lfi-cheat-sheet/)
++ [Libheap Heap Flowchart](extra/heap.png)
