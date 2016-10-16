@@ -43,8 +43,10 @@ If you have any cool content, please link to it via a PR.
 + [GDB Basics](https://www.cs.cmu.edu/~gilpin/tutorial/)
 + [Format String Exploitation](https://www.exploit-db.com/docs/28476.pdf)
 + [Pentester's Lab](https://www.pentesterlab.com/) -- specifically try the _Web For Pentester_ 1 and 2
++ [How 2 Heap](https://github.com/shellphish/how2heap) -- a repository for learning various heap exploitation techniques
 
 ## Cheat Sheets
 
 + [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
 + [Local File Inclusion](https://highon.coffee/blog/lfi-cheat-sheet/)
++ [Libheap Heap Flowchart](extra/heap.png)
