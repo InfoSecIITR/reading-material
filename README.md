@@ -51,3 +51,13 @@ If you have any cool content, please link to it via a PR.
 + [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
 + [Local File Inclusion](https://highon.coffee/blog/lfi-cheat-sheet/)
 + [Libheap Heap Flowchart](extra/heap.png)
+
+## Youtube Channels
+
++ Conferences
+  + [USENIX Enigma Conference](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw)
+  + [DEFCON Conference](https://www.youtube.com/user/DEFCONConference)
+  + [BlackHat](https://www.youtube.com/user/BlackHatOfficialYT)
++ Tutorials
+  + [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+  + [JackkTutorials](https://www.youtube.com/user/JackkTutorials)
