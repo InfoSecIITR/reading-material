@@ -45,6 +45,7 @@ If you have any cool content, please link to it via a PR.
 + [Format String Exploitation](https://www.exploit-db.com/docs/28476.pdf)
 + [Pentester's Lab](https://www.pentesterlab.com/) -- specifically try the _Web For Pentester_ 1 and 2
 + [How 2 Heap](https://github.com/shellphish/how2heap) -- a repository for learning various heap exploitation techniques
++ [Advanced SQL Injection in SQL Server Applications](http://www.cgisecurity.com/lib/advanced_sql_injection.pdf) -- great sqli primer
 
 ## Cheat Sheets
 
