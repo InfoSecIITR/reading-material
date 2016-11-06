@@ -34,6 +34,7 @@ If you have any cool content, please link to it via a PR.
 + [Roposaurusrex](https://blog.skullsecurity.org/2013/ropasaurusrex-a-primer-on-return-oriented-programming) -- a primer on return oriented programming
 + [XSSed](http://www.xssed.com) - some practically done xss attacks
 + [BinTut](https://github.com/NoviceLive/bintut) - BinTut is a set of tutorials, as well as exercises.
++ [lcamtuf's blog](https://lcamtuf.blogspot.in/) - lcamtuf is the creator of AFL (american fuzzy lop) and writes a lot of great stuff
 
 ## Must Reads
 
@@ -45,6 +46,7 @@ If you have any cool content, please link to it via a PR.
 + [Format String Exploitation](https://www.exploit-db.com/docs/28476.pdf)
 + [Pentester's Lab](https://www.pentesterlab.com/) -- specifically try the _Web For Pentester_ 1 and 2
 + [How 2 Heap](https://github.com/shellphish/how2heap) -- a repository for learning various heap exploitation techniques
++ [AFL fuzzing primer](https://www.youtube.com/watch?v=29RbO5bftwo) -- BSidesSF. Fuzz smarter, not harder. Craig Young.
 
 ## Cheat Sheets
 
