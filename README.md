@@ -47,6 +47,7 @@ If you have any cool content, please link to it via a PR.
 + [Pentester's Lab](https://www.pentesterlab.com/) -- specifically try the _Web For Pentester_ 1 and 2
 + [How 2 Heap](https://github.com/shellphish/how2heap) -- a repository for learning various heap exploitation techniques
 + [AFL fuzzing primer](https://www.youtube.com/watch?v=29RbO5bftwo) -- BSidesSF. Fuzz smarter, not harder. Craig Young.
++ [Advanced SQL Injection in SQL Server Applications](http://www.cgisecurity.com/lib/advanced_sql_injection.pdf) -- great sqli primer
 
 ## Cheat Sheets
 
