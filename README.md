@@ -18,7 +18,7 @@ If you have any cool content, please link to it via a PR.
 
 + [2000 cuts with Binary Ninja](https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/)
 + [Knowing your Binary! -- blog by Akash Trehan](https://codemaxx.github.io/different-kinds-of-executables/)
-+ [Writing your own shellcode -- blog by Paras Chetal](https://paraschetal.in/writing-your-own-shellcode/)
++ [Writing your own shellcode -- blog by Paras Chetal](https://paraschetal.in/writing-your-own-shellcode)
 + [Cache Attacks Enable Bulk Key Recovery on the Cloud](https://eprint.iacr.org/2016/596)
 + [Intro to r2](http://sushant94.me/2015/05/31/Introduction_to_radare2/)
 + [Diving into r2](http://blog.devit.co/diving-into-radare2/)
