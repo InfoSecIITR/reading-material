@@ -36,6 +36,8 @@ If you have any cool content, please link to it via a PR.
 + [BinTut](https://github.com/NoviceLive/bintut) - BinTut is a set of tutorials, as well as exercises.
 + [lcamtuf's blog](https://lcamtuf.blogspot.in/) - lcamtuf is the creator of AFL (american fuzzy lop) and writes a lot of great stuff
 
++ [OWASP Top 10](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP_Top-10_2013%20-%20Presentation.pptx) - Presentatioin on Top 10 Web Application Vulnerabilities and how to avoid them.
+
 ## Must Reads
 
 + [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) by the Mentor
