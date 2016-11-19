@@ -41,6 +41,7 @@ If you have any cool content, please link to it via a PR.
 ## Must Reads
 
 + [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) by the Mentor
++ [A Magnetized Needle and a Steady Hand](http://nullprogram.com/blog/2016/11/17/) -- elf structures with a nice storyline.
 
 ## Tutorials
 
@@ -50,6 +51,7 @@ If you have any cool content, please link to it via a PR.
 + [How 2 Heap](https://github.com/shellphish/how2heap) -- a repository for learning various heap exploitation techniques
 + [AFL fuzzing primer](https://www.youtube.com/watch?v=29RbO5bftwo) -- BSidesSF. Fuzz smarter, not harder. Craig Young.
 + [Advanced SQL Injection in SQL Server Applications](http://www.cgisecurity.com/lib/advanced_sql_injection.pdf) -- great sqli primer
++ [GCC-Inline-Assembly-HOWTO](http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
 
 ## Cheat Sheets
 
