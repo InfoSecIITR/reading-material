@@ -52,6 +52,7 @@ If you have any cool content, please link to it via a PR.
 + [AFL fuzzing primer](https://www.youtube.com/watch?v=29RbO5bftwo) -- BSidesSF. Fuzz smarter, not harder. Craig Young.
 + [Advanced SQL Injection in SQL Server Applications](http://www.cgisecurity.com/lib/advanced_sql_injection.pdf) -- great sqli primer
 + [GCC-Inline-Assembly-HOWTO](http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
++ [A Crash Course in x86 Assembly for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
 
 ## Cheat Sheets
 
