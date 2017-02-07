@@ -37,6 +37,7 @@ If you have any cool content, please link to it via a PR.
 + [lcamtuf's blog](https://lcamtuf.blogspot.in/) - lcamtuf is the creator of AFL (american fuzzy lop) and writes a lot of great stuff
 
 + [OWASP Top 10](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP_Top-10_2013%20-%20Presentation.pptx) - Presentatioin on Top 10 Web Application Vulnerabilities and how to avoid them.
++ [hacksplaining](https://www.hacksplaining.com/) - Good set of challenges
 
 ## Must Reads
 
