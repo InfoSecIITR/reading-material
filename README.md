@@ -74,3 +74,4 @@ If you have any cool content, please link to it via a PR.
 + Tutorials
   + [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   + [JackkTutorials](https://www.youtube.com/user/JackkTutorials)
+  + [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
