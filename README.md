@@ -38,6 +38,9 @@ If you have any cool content, please link to it via a PR.
 
 + [OWASP Top 10](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP_Top-10_2013%20-%20Presentation.pptx) - Presentatioin on Top 10 Web Application Vulnerabilities and how to avoid them.
 + [hacksplaining](https://www.hacksplaining.com/) - Good set of challenges
++ [Vudo malloc tricks](http://phrack.org/issues/57/8.html#article)
++ [Once upon a free()](http://phrack.org/issues/57/9.html#article)
++ [Enumeration](http://0daysecurity.com/penetration-testing/enumeration.html)
 
 ## Must Reads
 
