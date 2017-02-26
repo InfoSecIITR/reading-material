@@ -64,6 +64,7 @@ If you have any cool content, please link to it via a PR.
 + [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
 + [Local File Inclusion](https://highon.coffee/blog/lfi-cheat-sheet/)
 + [Libheap Heap Flowchart](extra/heap.png)
++ [Calling Conventions](http://www.agner.org/optimize/calling_conventions.pdf) - Detailed description of calling conventions across different compilers and operating systems. Maintained by Agner Fog.
 
 ## Youtube Channels
 
