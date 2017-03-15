@@ -65,6 +65,8 @@ If you have any cool content, please link to it via a PR.
 + [Local File Inclusion](https://highon.coffee/blog/lfi-cheat-sheet/)
 + [Libheap Heap Flowchart](extra/heap.png)
 + [Calling Conventions](http://www.agner.org/optimize/calling_conventions.pdf) - Detailed description of calling conventions across different compilers and operating systems. Maintained by Agner Fog.
++ [Penetration testing tools cheat sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
++ [Enumeration cheat sheet](http://0daysecurity.com/penetration-testing/enumeration.html)
 
 ## Youtube Channels
 
