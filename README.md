@@ -68,7 +68,7 @@ If you have any cool content, please link to it via a PR.
 + [Penetration testing tools cheat sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 + [Enumeration cheat sheet](http://0daysecurity.com/penetration-testing/enumeration.html)
 
-## Youtube Channels
+## Youtube
 
 + Conferences
   + [USENIX Enigma Conference](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw)
@@ -78,3 +78,5 @@ If you have any cool content, please link to it via a PR.
   + [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   + [JackkTutorials](https://www.youtube.com/user/JackkTutorials)
   + [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
++ Videos
+  + [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
