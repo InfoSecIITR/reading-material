@@ -40,6 +40,7 @@ If you have any cool content, please link to it via a PR.
 + [hacksplaining](https://www.hacksplaining.com/) - Good set of challenges
 + [Vudo malloc tricks](http://phrack.org/issues/57/8.html#article)
 + [Once upon a free()](http://phrack.org/issues/57/9.html#article)
++ [RSA Attacks](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf) - Explanation of various RSA attacks
 
 ## Must Reads
 
