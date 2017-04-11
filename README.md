@@ -42,6 +42,7 @@ If you have any cool content, please link to it via a PR.
 + [Once upon a free()](http://phrack.org/issues/57/9.html#article)
 + [RSA Attacks](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf) - Explanation of various RSA attacks
 + [How the heck do we get to main()?](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
++ [Malloc Internals - glibc wiki](https://sourceware.org/glibc/wiki/MallocInternals)
 
 ## Must Reads
 
