@@ -49,6 +49,7 @@ If you have any cool content, please link to it via a PR.
 + [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) by the Mentor
 + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) by Eric Steven Raymond
 + [A Magnetized Needle and a Steady Hand](http://nullprogram.com/blog/2016/11/17/) -- elf structures with a nice storyline.
++ [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 ## Tutorials
 
