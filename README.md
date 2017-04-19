@@ -50,11 +50,13 @@ If you have any cool content, please link to it via a PR.
 + [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) by the Mentor
 + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) by Eric Steven Raymond
 + [A Magnetized Needle and a Steady Hand](http://nullprogram.com/blog/2016/11/17/) -- elf structures with a nice storyline.
++ [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 ## Tutorials
 
 + [GDB Basics](https://www.cs.cmu.edu/~gilpin/tutorial/)
 + [Format String Exploitation](https://www.exploit-db.com/docs/28476.pdf)
++ [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155old/cs155-spring08/papers/formatstring-1.2.pdf)
 + [Pentester's Lab](https://www.pentesterlab.com/) -- specifically try the _Web For Pentester_ 1 and 2
 + [How 2 Heap](https://github.com/shellphish/how2heap) -- a repository for learning various heap exploitation techniques
 + [AFL fuzzing primer](https://www.youtube.com/watch?v=29RbO5bftwo) -- BSidesSF. Fuzz smarter, not harder. Craig Young.
