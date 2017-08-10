@@ -43,7 +43,7 @@ If you have any cool content, please link to it via a PR.
 + [RSA Attacks](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf) - Explanation of various RSA attacks
 + [How the heck do we get to main()?](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
 + [Malloc Internals - glibc wiki](https://sourceware.org/glibc/wiki/MallocInternals)
-+ [10 things InfoSec professionals need to know about networking](https://medium.com/@louiscremen/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93)
++ [10 things InfoSec professionals need to know about networking](https://artplusmarketing.com/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93)
 
 ## Must Reads
 
