@@ -73,6 +73,10 @@ If you have any cool content, please link to it via a PR.
 + [Penetration testing tools cheat sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 + [Enumeration cheat sheet](http://0daysecurity.com/penetration-testing/enumeration.html)
 
+## Other Lists
+
++ [How to start in Infosec](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31)
+
 ## Youtube
 
 + Conferences
