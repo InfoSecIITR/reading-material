@@ -88,5 +88,7 @@ If you have any cool content, please link to it via a PR.
   + [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   + [JackkTutorials](https://www.youtube.com/user/JackkTutorials)
   + [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
+  + [MurmusCTF](https://www.youtube.com/c/MurmusCTF)
+  + [CyberspaceCamp](https://www.youtube.com/c/CyberspaceCamp)
 + Videos
   + [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
