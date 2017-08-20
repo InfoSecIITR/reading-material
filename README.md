@@ -78,6 +78,15 @@ If you have any cool content, please link to it via a PR.
 
 + [How to start in Infosec](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31)
 
+## Pastebins
+
++ [Crypto challenges list 2017](https://pastebin.com/raw/uttU8Pn3)
++ [Crypto challenges list 2016](https://pastebin.com/raw/28SrvQ9b)
++ [Crypto challenges list 2015](http://pastebin.com/raw/cSfZW2yX)
++ [Pwn challenges list](http://pastebin.com/raw/uyifxgPu)
++ [Rev challenges list](https://pastebin.com/raw/q7LGi8w5)
++ [Web challenges list 2016](https://pastebin.com/raw/6EH6X0yL)
+
 ## Youtube
 
 + Conferences
