@@ -45,6 +45,7 @@ If you have any cool content, please link to it via a PR.
 + [Malloc Internals - glibc wiki](https://sourceware.org/glibc/wiki/MallocInternals)
 + [10 things InfoSec professionals need to know about networking](https://medium.com/@louiscremen/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93)
 + [ELF executable reconstruction from a core image](https://web.archive.org/web/20010607192235/http://www.big.net.au/~silvio/core-reconstruction.txt)
++ [Reflections on Trusting Trust by Ken Thompson](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 
 ## Must Reads
 
