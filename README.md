@@ -102,3 +102,7 @@ If you have any cool content, please link to it via a PR.
   + [CyberspaceCamp](https://www.youtube.com/c/CyberspaceCamp)
 + Videos
   + [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
+
+## Practice/Wargames/etc
+
++ [ROP Emporium](https://ropemporium.com/)
