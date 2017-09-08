@@ -47,6 +47,7 @@ If you have any cool content, please link to it via a PR.
 + [ELF executable reconstruction from a core image](https://web.archive.org/web/20010607192235/http://www.big.net.au/~silvio/core-reconstruction.txt)
 + [Reflections on Trusting Trust by Ken Thompson](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 + [Manual SQL Injection Discovery Tips](https://gerbenjavado.com/manual-sql-injection-discovery-tips/amp/)
+
 ## Must Reads
 
 + [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) by the Mentor
