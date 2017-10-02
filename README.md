@@ -16,6 +16,7 @@ If you have any cool content, please link to it via a PR.
 
 ## Yet to organize
 
++ [2000 cuts with Binary Ninja](https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/)
 + [Knowing your Binary! -- blog by Akash Trehan](https://codemaxx.github.io/different-kinds-of-executables/)
 + [Writing your own shellcode -- blog by Paras Chetal](https://paraschetal.in/writing-your-own-shellcode)
 + [Cache Attacks Enable Bulk Key Recovery on the Cloud](https://eprint.iacr.org/2016/596)
@@ -73,7 +74,6 @@ If you have any cool content, please link to it via a PR.
 + [Calling Conventions](http://www.agner.org/optimize/calling_conventions.pdf) - Detailed description of calling conventions across different compilers and operating systems. Maintained by Agner Fog.
 + [Penetration testing tools cheat sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 + [Enumeration cheat sheet](http://0daysecurity.com/penetration-testing/enumeration.html)
-+ [2000 cuts with Binary Ninja](https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/)
 
 ## Other Lists
 
