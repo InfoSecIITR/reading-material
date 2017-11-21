@@ -80,6 +80,7 @@ If you have any cool content, please link to it via a PR.
 
 + [How to start in Infosec](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31)
 + [Awesome Hacking Resources list](https://github.com/vitalysim/Awesome-Hacking-Resources)
++ [Awesome reverse engineering resources](https://github.com/wtsxDev/reverse-engineering)
 
 ## Pastebins
 
