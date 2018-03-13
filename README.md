@@ -56,7 +56,7 @@ If you have any cool content, please link to it via a PR.
 ## Tutorials
 
 + [GDB Basics](https://www.cs.cmu.edu/~gilpin/tutorial/)
-+ [Format String Exploitation](https://www.exploit-db.com/docs/28476.pdf)
++ [Format String Exploitation](https://web.archive.org/web/20171030023310/https://www.exploit-db.com/docs/28476.pdf)
 + [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155old/cs155-spring08/papers/formatstring-1.2.pdf)
 + [Pentester's Lab](https://www.pentesterlab.com/) -- specifically try the _Web For Pentester_ 1 and 2
 + [How 2 Heap](https://github.com/shellphish/how2heap) -- a repository for learning various heap exploitation techniques
