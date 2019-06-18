@@ -17,25 +17,25 @@ If you have any cool content, please link to it via a PR.
 ## Blog Posts
 
 + [2000 cuts with Binary Ninja](https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/)
-+ [Knowing your Binary! -- blog by Akash Trehan](https://codemaxx.github.io/different-kinds-of-executables/)
++ [Knowing your Binary! -- blog by Akash Trehan](https://www.akashtrehan.com/different-kinds-of-executables/)
 + [Writing your own shellcode -- blog by Paras Chetal](https://paraschetal.in/writing-your-own-shellcode)
-+ [Diving into r2](http://blog.devit.co/diving-into-radare2/)
++ [Diving into r2](https://blog.devit.co/diving-into-radare2/)
 + [CMU Binary Bomb](http://ctfhacker.com/ctf/python/symbolic/execution/reverse/radare/2015/11/28/cmu-binary-bomb-flag2.html) -- r2 and angr
 + [GDB Example ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
 + [Exploring Python using GDB](https://stripe.com/blog/exploring-python-using-gdb)
 + [Roposaurusrex](https://blog.skullsecurity.org/2013/ropasaurusrex-a-primer-on-return-oriented-programming) -- a primer on return oriented programming
 + [Exploiting PHP File Inclusion](https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
 + [How the heck do we get to main()?](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
-+ [10 things InfoSec professionals need to know about networking](https://medium.com/@louiscremen/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93)
++ [10 things InfoSec professionals need to know about networking](https://hackernoon.com/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93)
 + [ELF executable reconstruction from a core image](http://www.ouah.org/core-reconstruction.txt)
 + [Manual SQL Injection Discovery Tips](https://gerbenjavado.com/manual-sql-injection-discovery-tips/)
-+ [Intro to r2](http://sushant94.me/2015/05/31/Introduction_to_radare2/)
++ [Intro to r2](https://sushant94.me/2015/05/31/Introduction_to_radare2/)
 + [GCC-Inline-Assembly-HOWTO](http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
 + [GDB Basics](https://www.cs.cmu.edu/~gilpin/tutorial/)
 + [XSSed](http://www.xssed.com) - some practically done xss attacks
 + [Vudo malloc tricks](http://phrack.org/issues/57/8.html#article)
 + [Once upon a free()](http://phrack.org/issues/57/9.html#article)
-+ [A Magnetized Needle and a Steady Hand](http://nullprogram.com/blog/2016/11/17/) -- elf structures with a nice storyline.
++ [A Magnetized Needle and a Steady Hand](https://nullprogram.com/blog/2016/11/17/) -- elf structures with a nice storyline.
 + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) by Eric Steven Raymond
 
 ## Blogs
@@ -43,7 +43,7 @@ If you have any cool content, please link to it via a PR.
 > Multiple blogposts on these blogs are good reads, so rather than listing them each separately above, we just link to the entire blog here :)
 
 + [Diary of a Reverse Engineer](https://doar-e.github.io/index.html)
-+ [lcamtuf's blog](https://lcamtuf.blogspot.in/) - lcamtuf is the creator of AFL (american fuzzy lop) and writes a lot of great stuff
++ [lcamtuf's blog](https://lcamtuf.blogspot.com/) - lcamtuf is the creator of AFL (american fuzzy lop) and writes a lot of great stuff
 + [Liveoverflow](https://liveoverflow.com/)
 + [Fuzzy Security Tutorials](http://www.fuzzysecurity.com/tutorials.html) -- bunch of good reads
 
@@ -63,7 +63,7 @@ If you have any cool content, please link to it via a PR.
 + [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
 + [Local File Inclusion](https://highon.coffee/blog/lfi-cheat-sheet/)
 + [Libheap Heap Flowchart](extra/heap.png)
-+ [Calling Conventions](http://www.agner.org/optimize/calling_conventions.pdf) - Detailed description of calling conventions across different compilers and operating systems. Maintained by Agner Fog.
++ [Calling Conventions](https://www.agner.org/optimize/calling_conventions.pdf) - Detailed description of calling conventions across different compilers and operating systems. Maintained by Agner Fog.
 + [Penetration testing tools cheat sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 + [Enumeration cheat sheet](http://0daysecurity.com/penetration-testing/enumeration.html)
 
@@ -116,13 +116,13 @@ If you have any cool content, please link to it via a PR.
 
 + [Format String Exploitation](https://www.exploit-db.com/docs/english/28476-linux-format-string-exploitation.pdf)
 + [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155old/cs155-spring08/papers/formatstring-1.2.pdf)
-+ [Advanced SQL Injection in SQL Server Applications](http://www.cgisecurity.com/lib/advanced_sql_injection.pdf) -- great sqli primer
++ [Advanced SQL Injection in SQL Server Applications](https://www.cgisecurity.com/lib/advanced_sql_injection.pdf) -- great sqli primer
 + [A Crash Course in x86 Assembly for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
 + [Sour Pickles](https://media.blackhat.com/bh-us-11/Slaviero/BH_US_11_Slaviero_Sour_Pickles_WP.pdf) -- Python pickle problems
 + [OWASP Top 10](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP_Top-10_2013%20-%20Presentation.pptx) - Presentatioin on Top 10 Web Application Vulnerabilities and how to avoid them.
 + [RSA Attacks](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf) - Explanation of various RSA attacks
 + [Malloc Internals - glibc wiki](https://sourceware.org/glibc/wiki/MallocInternals)
-+ [Reflections on Trusting Trust by Ken Thompson](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
++ [Reflections on Trusting Trust by Ken Thompson](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 + [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 + [Address Sanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
 + [Cache Attacks Enable Bulk Key Recovery on the Cloud](https://eprint.iacr.org/2016/596)
