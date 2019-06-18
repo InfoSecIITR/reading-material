@@ -27,7 +27,7 @@ If you have any cool content, please link to it via a PR.
 + [Exploiting PHP File Inclusion](https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
 + [How the heck do we get to main()?](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
 + [10 things InfoSec professionals need to know about networking](https://medium.com/@louiscremen/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93)
-+ [ELF executable reconstruction from a core image](https://web.archive.org/web/20010607192235/http://www.big.net.au/~silvio/core-reconstruction.txt)
++ [ELF executable reconstruction from a core image](http://www.ouah.org/core-reconstruction.txt)
 + [Manual SQL Injection Discovery Tips](https://gerbenjavado.com/manual-sql-injection-discovery-tips/)
 + [Intro to r2](http://sushant94.me/2015/05/31/Introduction_to_radare2/)
 + [GCC-Inline-Assembly-HOWTO](http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
