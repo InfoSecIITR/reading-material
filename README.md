@@ -114,7 +114,7 @@ If you have any cool content, please link to it via a PR.
 
 ## White-papers, Research papers, Slides, Wikis
 
-+ [Format String Exploitation](https://web.archive.org/web/20171030023310/https://www.exploit-db.com/docs/28476.pdf)
++ [Format String Exploitation](https://www.exploit-db.com/docs/english/28476-linux-format-string-exploitation.pdf)
 + [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155old/cs155-spring08/papers/formatstring-1.2.pdf)
 + [Advanced SQL Injection in SQL Server Applications](http://www.cgisecurity.com/lib/advanced_sql_injection.pdf) -- great sqli primer
 + [A Crash Course in x86 Assembly for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
