@@ -38,7 +38,9 @@ If you have any cool content, please link to it via a PR.
 + [A Magnetized Needle and a Steady Hand](http://nullprogram.com/blog/2016/11/17/) -- elf structures with a nice storyline.
 + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) by Eric Steven Raymond
 
-## Blogs (not specific blog posts)
+## Blogs
+
+> Multiple blogposts on these blogs are good reads, so rather than listing them each separately above, we just link to the entire blog here :)
 
 + [Diary of a Reverse Engineer](https://doar-e.github.io/index.html)
 + [lcamtuf's blog](https://lcamtuf.blogspot.in/) - lcamtuf is the creator of AFL (american fuzzy lop) and writes a lot of great stuff
