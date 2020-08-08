@@ -152,5 +152,7 @@ If you have any cool content, please link to it via a PR.
 + Videos
   + [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
   + [AFL fuzzing primer](https://www.youtube.com/watch?v=29RbO5bftwo) -- BSidesSF. Fuzz smarter, not harder. Craig Young.
+  + [Fuzzing 101]( https://www.youtube.com/watch?v=KouPDI9laUE&t=7968s) -- Fuzzing 101
+ 
 
 
