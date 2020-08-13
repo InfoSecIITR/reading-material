@@ -18,7 +18,7 @@ If you have any cool content, please link to it via a PR.
 
 + [2000 cuts with Binary Ninja](https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/)
 + [Knowing your Binary! -- blog by Akash Trehan](https://www.akashtrehan.com/different-kinds-of-executables/)
-+ [Writing your own shellcode -- blog by Paras Chetal](https://paraschetal.in/writing-your-own-shellcode)
++ Writing your own shellcode -- blog by Paras Chetal -- deadlink:paraschetal.in/writing-your-own-shellcode
 + [Diving into r2](https://blog.devit.co/diving-into-radare2/)
 + [CMU Binary Bomb](http://ctfhacker.com/ctf/python/symbolic/execution/reverse/radare/2015/11/28/cmu-binary-bomb-flag2.html) -- r2 and angr
 + [GDB Example ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
@@ -54,7 +54,7 @@ If you have any cool content, please link to it via a PR.
 + [Serious Cryptography](https://nostarch.com/seriouscrypto)
 + [PoC || GTFO volume 1](https://nostarch.com/gtfo)
 + [PoC || GTFO volume 2](https://nostarch.com/gtfo2)
-+ [The Art of Software Security Assesment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426)
++ [The Art of Software Security Assesment](https://www.goodreads.com/book/show/349418.The_Art_of_Software_Security_Assessment?from_search=true&from_srp=true&qid=DNrGHqRM9T&rank=1)
 + [Hacking: The Art of Exploitation](https://nostarch.com/hacking2.htm)
 + [The Shellcoder's Handbook](https://www.amazon.in/Shellcoder%E2%80%B2s-Handbook-Discovering-Exploiting-Security/dp/047008023X)
 
