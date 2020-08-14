@@ -126,8 +126,8 @@ If you have any cool content, please link to it via a PR.
 + [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 + [Address Sanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
 + [Cache Attacks Enable Bulk Key Recovery on the Cloud](https://eprint.iacr.org/2016/596)
++ [The Art, Science, and Engineering of Fuzzing: A Survey](https://arxiv.org/abs/1812.00140)
 + [Fuzzing: A Survey](https://link.springer.com/content/pdf/10.1186/s42400-018-0002-y.pdf)
-
 
 ## Youtube
 
